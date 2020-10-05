@@ -1,6 +1,6 @@
 # code-server
 
-Run [VS Code](https://github.com/Microsoft/vscode) on any machine anywhere and access it in the browser.
+Run [VS Code](https://github.com/Microsoft/vscode) in a cloud server and access it in the browser.
 
 ![Screenshot](./doc/assets/screenshot.png)
 
